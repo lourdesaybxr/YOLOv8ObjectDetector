@@ -39,7 +39,22 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    cd YOLOv8ObjectDetector
 
 3. **Instala las dependencias:**
-Usando npm, yarn o pnpm:
+   Usando npm, yarn o pnpm:
+   ```Bash
+    npm install
+    # o
+    yarn install
+    # o
+    pnpm install
+   
+4. **Inicia el servidor de desarrollo:**
+   ```Bash
+   npm run dev
+   # o
+   yarn dev
+   
+5. **Abre la aplicación:
+Navega a http://localhost:3000 en tu navegador para ver la interfaz.**
 
 
 YOLOv8ObjectDetector/
@@ -49,3 +64,7 @@ YOLOv8ObjectDetector/
 ├── lib/               # Utilidades, configuración del modelo YOLOv8
 ├── public/            # Archivos estáticos y modelos exportados
 └── styles/            # Estilos globales (Tailwind)
+
+  yarn install
+  # o
+  pnpm install
