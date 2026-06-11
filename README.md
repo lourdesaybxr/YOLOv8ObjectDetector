@@ -56,7 +56,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 5. **Abre la aplicación:
 Navega a http://localhost:3000 en tu navegador para ver la interfaz.**
 
-YOLOv8ObjectDetector/
+```YOLOv8ObjectDetector/
 ├── app/               # Rutas y páginas de Next.js (App Router)
 ├── components/        # Componentes reutilizables de React (UI, controles)
 ├── hooks/             # Custom hooks de React (lógica de estado, webcam)
