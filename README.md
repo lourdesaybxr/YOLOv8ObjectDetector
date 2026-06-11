@@ -22,7 +22,7 @@ Basado en la estructura del proyecto, se utilizan las siguientes tecnologías:
 * **Librería UI**: [React](https://reactjs.org/)
 * **Lenguaje**: [TypeScript](https://www.typescriptlang.org/)
 * **Estilos**: [Tailwind CSS](https://tailwindcss.com/)
-* **Modelo**: YOLOv8 (ejecutado en el entorno web)
+* **Modelo**: YOLOv8 de [Ultralytics](https://www.ultralytics.com/)(ejecutado en el entorno web)
 
 ## ⚙️ Instalación y Uso local
 
