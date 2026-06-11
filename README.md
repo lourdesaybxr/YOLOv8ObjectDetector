@@ -58,13 +58,18 @@ Navega a http://localhost:3000 en tu navegador para ver la interfaz.**
 
 
 YOLOv8ObjectDetector/
-├── app/               # Rutas y páginas de Next.js (App Router)
-├── components/        # Componentes reutilizables de React (UI, controles)
-├── hooks/             # Custom hooks de React (lógica de estado, webcam)
+ 
+├── app/           
+# Rutas y páginas de Next.js (App Router)
+├── components/   
+# Componentes reutilizables de React (UI, controles)
+├── hooks/ 
+
+
+# Custom hooks de React (lógica de estado, webcam)
 ├── lib/               # Utilidades, configuración del modelo YOLOv8
 ├── public/            # Archivos estáticos y modelos exportados
 └── styles/            # Estilos globales (Tailwind)
 
-  yarn install
-  # o
-  pnpm install
+
+
